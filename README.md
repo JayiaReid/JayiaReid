@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JayiaReid
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning frontend development using frameworks, Java, SQL/noSQL, python
+- 👀 I’m interested in fullstack web development and software development
+- 🌱 I’m currently learning fullstack development using frameworks, Java, SQL/noSQL, python
 - 📫 How to reach me "jayiareid24@gmail.com"
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cats, dogs and music
+- ⚡ Fun fact: I love puzzles, art, dogs and music
 
 <!---
 JayiaReid/JayiaReid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
